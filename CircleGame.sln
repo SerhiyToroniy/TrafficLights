@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficLights", "TrafficLights\TrafficLights.csproj", "{9E0C11E7-FFDB-4736-A067-9A3AD115016E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleGame", "TrafficLights\CircleGame.csproj", "{9E0C11E7-FFDB-4736-A067-9A3AD115016E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
