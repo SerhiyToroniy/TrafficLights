@@ -1,10 +1,10 @@
 E:\Repos\TrafficLights\TrafficLights\bin\Debug\CircleGame.exe.config
 E:\Repos\TrafficLights\TrafficLights\bin\Debug\CircleGame.exe
 E:\Repos\TrafficLights\TrafficLights\bin\Debug\CircleGame.pdb
+E:\Repos\TrafficLights\TrafficLights\obj\Debug\CircleGame.csproj.AssemblyReference.cache
 E:\Repos\TrafficLights\TrafficLights\obj\Debug\TrafficLights.Form1.resources
 E:\Repos\TrafficLights\TrafficLights\obj\Debug\CircleGame.Properties.Resources.resources
 E:\Repos\TrafficLights\TrafficLights\obj\Debug\CircleGame.csproj.GenerateResource.cache
 E:\Repos\TrafficLights\TrafficLights\obj\Debug\CircleGame.csproj.CoreCompileInputs.cache
 E:\Repos\TrafficLights\TrafficLights\obj\Debug\CircleGame.exe
 E:\Repos\TrafficLights\TrafficLights\obj\Debug\CircleGame.pdb
-E:\Repos\TrafficLights\TrafficLights\obj\Debug\CircleGame.csproj.AssemblyReference.cache
